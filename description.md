@@ -1,2 +1,3 @@
 # Description of submission
 
+# The methods employed here are a mixed modelling approach. We have developed custom feature encoding based on domain knowledge, including several non-intuitive variables, and used these variables and core fertility predictors to train a recursively partitioned regression model.
